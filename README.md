@@ -1,4 +1,4 @@
-# ✨ ABOUT ME
+# ✨ABOUT ME
 
 🔭 I’m currently studing in University Of Colima.
 
