@@ -1,6 +1,6 @@
 🔭 I’m currently studing in University Of Colima.
 
-🌱 I’m currently learning about JS, React.JS, Tailwind.
+🌱 I’m currently learning about JavaScript, React.JS, Tailwind.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelanguiano12&size_weight=0.5&count_weight=0.5)
 
