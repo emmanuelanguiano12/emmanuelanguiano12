@@ -14,5 +14,4 @@
 ![Tailwind](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-
-[![Certificación Microsoft](https://learn.microsoft.com/es-mx/users/emmanuelanguiano-7972/achievements?redeem=3M623Q&WT.mc_id=githubuniv_csc_badge-email_nge&tab=tab-other)](https://learn.microsoft.com/es-mx/users/emmanuelanguiano-7972/achievements?redeem=3M623Q&WT.mc_id=githubuniv_csc_badge-email_nge&tab=tab-other)
+[![Certificación Microsoft](https://img.shields.io/badge/Microsoft%20Learn-Certificado-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/es-mx/users/emmanuelanguiano-7972/achievements?redeem=3M623Q&WT.mc_id=githubuniv_csc_badge-email_nge&tab=tab-other)
