@@ -12,6 +12,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Tailwind](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
+![Tailwind](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 [![Certificación Microsoft](https://img.shields.io/badge/Microsoft%20Learn-Certificado-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/es-mx/users/emmanuelanguiano-7972/achievements?redeem=3M623Q&WT.mc_id=githubuniv_csc_badge-email_nge&tab=tab-other)
