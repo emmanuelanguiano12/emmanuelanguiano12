@@ -6,6 +6,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelanguiano12&size_weight=0.5&count_weight=0.5)
 
+# 👾LANGUAGGES
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 # 🚀TECHNOLOGIES
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
