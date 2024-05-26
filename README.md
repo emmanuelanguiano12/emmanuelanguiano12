@@ -10,6 +10,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+# 👽CERTIFICATIONS
+![image](https://github.com/emmanuelanguiano12/emmanuelanguiano12/assets/139512099/caa0b0b8-b77f-4e0d-9be5-92d9b880b890)
+
 # 🚀TECHNOLOGIES
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
