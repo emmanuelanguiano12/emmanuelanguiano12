@@ -15,7 +15,7 @@
 ![image](https://github.com/emmanuelanguiano12/emmanuelanguiano12/assets/139512099/e701ab97-4ee8-4f55-94dc-698dceaef010)
 
 # 🚀TECHNOLOGIES
-## Frameworks⚡
+## Frameworks and libraries⚡
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
