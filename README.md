@@ -12,7 +12,7 @@
 
 # 👽CERTIFICATIONS
 ![image](https://github.com/emmanuelanguiano12/emmanuelanguiano12/assets/139512099/caa0b0b8-b77f-4e0d-9be5-92d9b880b890)
-![image](https://github.com/user-attachments/assets/b3239d8e-0633-40ca-929e-b75a010fe8a3)
+![image](https://github.com/user-attachments/assets/9108ff9e-cd6e-49da-9ed2-468489d92986)
 ![image](https://github.com/emmanuelanguiano12/emmanuelanguiano12/assets/139512099/e701ab97-4ee8-4f55-94dc-698dceaef010)
 
 # 🚀TECHNOLOGIES
