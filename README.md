@@ -12,7 +12,7 @@
 
 # 👽CERTIFICATIONS
 ![image](https://github.com/emmanuelanguiano12/emmanuelanguiano12/assets/139512099/caa0b0b8-b77f-4e0d-9be5-92d9b880b890)
-![aws-certified-ai-practitioner-early-adopter](https://github.com/user-attachments/assets/af3b29d7-7b36-4553-abc1-e113e4c0da01)
+![image](https://github.com/user-attachments/assets/ef1ba109-1940-4cd2-9e63-562af7d6b845)
 ![image](https://github.com/emmanuelanguiano12/emmanuelanguiano12/assets/139512099/e701ab97-4ee8-4f55-94dc-698dceaef010)
 
 # 🚀TECHNOLOGIES
